@@ -1,5 +1,5 @@
 # General Information
-Repository containing code for the YouTube website clone.
+This is a YouTube clone.
 # Technologies
 Project was created using:
 * HTML 5
