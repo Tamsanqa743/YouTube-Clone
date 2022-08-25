@@ -1,0 +1,26 @@
+@media (max-width:480px) and (min-width: 200px){
+    .video-grid{
+        display:flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        padding: 15px;
+    }
+    .categories{
+        display: none; 
+     }
+
+     .search-bar{
+        display: none;
+     }
+
+     .videos, .video{
+        width: 100%;
+    }
+    
+    .video-grid{
+        display:flex;
+        flex-wrap: wrap;
+        padding: 15px;
+        width: 100%;
+    }
+}
